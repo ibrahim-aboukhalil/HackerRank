@@ -1,2 +1,2 @@
 # HackerRank
-Solutions for Hacker Rank problems
+Solutions for Hacker Rank problems [PHP]
