@@ -1,4 +1,9 @@
 <?php
+$path_example = 'DDUUUUDD';
+$length = strlen($path_example);
+
+echo "Number of valleys walked through= ".countingValleys($length, $path_example);
+
 function countingValleys($steps, $path) {
     $level=0;
     $path_array=str_split($path,1);
